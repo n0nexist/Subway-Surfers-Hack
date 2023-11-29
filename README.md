@@ -1,5 +1,6 @@
 # Subway-Surfers-Hack
-Unlimited money, boards and keys on any Subway Surfers version.
+![](https://github.com/n0nexist/Subway-Surfers-Hack/blob/main/screenshot.jpg?raw=true)<br>
+**Unlimited** money, boards and keys on _**any**_ Subway Surfers version.
 
 # ❓ Tutorial
 <h4>(THIS WAS ONLY TESTED ON ANDROID)</h4>
